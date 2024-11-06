@@ -1,5 +1,5 @@
-# AI-Driven-Cancer-Treatment-Simulator-TicTacToe
-An AI-powered Tic-Tac-Toe game where the player’s moves represent treatment strategies against an AI opponent that simulates cancer. It’s designed as a training tool to explore decision-making in a fun and challenging way.
+# AI-Driven-Treatment-Simulator-TicTacToe
+Developed a Python-based simulator to model treatment strategies through a Tic-Tac-Toe-inspired game. The project uses the Minimax algorithm to create a challenging AI opponent that simulates cancer's adaptability, encouraging users to employ strategic decision-making to achieve optimal results.
 
 ## Table of Contents
 - [Description](#description)
